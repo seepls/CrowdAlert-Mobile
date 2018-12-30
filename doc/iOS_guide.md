@@ -11,7 +11,7 @@ Make sure you have Xcode 9 or higher and the correct command line tool is specif
 If you don't have cocoa-pods installed,
 
 ```
-$ sudo gem install cocoapods
+$ sudo gem install -n /usr/local/bin cocoapods
 ```
 
 Using Cocoa-pods install the pods.
